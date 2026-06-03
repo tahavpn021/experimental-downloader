@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Wed Jun  3 11:26:01 UTC 2026
+Generated on: Wed Jun  3 11:31:18 UTC 2026
 
 - [Download Ai2.mp4.z01](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Ai2.mp4.z01)
 - [Download Ai2.mp4.z02](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Ai2.mp4.z02)
@@ -8,6 +8,9 @@ Generated on: Wed Jun  3 11:26:01 UTC 2026
 - [Download Omarchy_3_[L3EafsSCv80].mp4.z02](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Omarchy_3_%5BL3EafsSCv80%5D.mp4.z02)
 - [Download Omarchy_3_[L3EafsSCv80].mp4.z03](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Omarchy_3_%5BL3EafsSCv80%5D.mp4.z03)
 - [Download Omarchy_3_[L3EafsSCv80].mp4.zip](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Omarchy_3_%5BL3EafsSCv80%5D.mp4.zip)
+- [Download Trash.mp4.z01](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Trash.mp4.z01)
+- [Download Trash.mp4.z02](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Trash.mp4.z02)
+- [Download Trash.mp4.zip](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Trash.mp4.zip)
 - [Download Wrld.mp4.z06](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Wrld.mp4.z06)
 - [Download Wrld.mp4.z07](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Wrld.mp4.z07)
 - [Download Wrld.mp4.z08](https://github.com/tahavpn021/experimental-downloader/raw/videos/videos/Wrld.mp4.z08)
